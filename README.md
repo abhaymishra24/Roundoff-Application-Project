@@ -5,7 +5,9 @@
 
 Project Description -
 
-This one-pay system allows users to pay money using any payment gateway through a single application. The one-payment system includes every application and allows users to make payments with any application. A single user ID would be connected with every payment system gateway.
+This one-pay system allows users to pay money using any payment gateway through a single application. The one-payment system includes every application and allows users to make payments with any application gateways. A single user ID would be connected with every payment system gateway.
+
+Here are payment system channels- 
 
 
 
