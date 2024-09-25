@@ -1,24 +1,23 @@
 
  # One_payment_System-Project
 
+- This is a payment system project that supports transactions through one application, which will include all other payment system gateways.
+  <br/>
+- I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies.🤝🧑‍💻🚀
+
  ![payemnt logo](https://github.com/abhaymishra24/One-Payment-System/blob/main/payment2.png)
  
-<--Design and work by= Abhay Mishra(me)-->
+## Project Description ✍️
 
-<----I would like to welcome everyone who can contribute to this project, discuss it, and add new features and technologies..🤝🧑‍💻🚀 ---->
+This is a one-payment system that allows users to make payments using a single payment application gateway for various transaction applications. The one-payment system includes all applications and enables users to make payments through any payment gateway. A single user ID will be connected to every payment system gateway
 
+## Here are payment system channels- 
 
-Project Description -
-
-This one-pay system allows users to pay money using any payment gateway through a single application. The one-payment system includes every application and allows users to make payments with any application gateways. A single user ID would be connected with every payment system gateway.
-
-Here are payment system channels- 
-
-1. Payment gateway
-2. API call
-3. Integrated with every payment system
-4. one Identity for every payments
-5. One passwor and keep many pasword depend on user.
+- Payment gateway
+- API call
+- Integrated with every payment system
+- One Identity for every payments
+- One passwor and keep many pasword depend on user.
 
 
 
