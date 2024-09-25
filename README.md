@@ -1,7 +1,7 @@
 
  # One_payment_System-Project
 
- ![payemnt logo](https://github.com/abhaymishra24/One-Payment-System/blob/main/onepaye1.jpg)
+ ![payemnt logo](https://github.com/abhaymishra24/One-Payment-System/blob/main/payment2.png)
  
 <--Design and work by= Abhay Mishra(me)-->
 
