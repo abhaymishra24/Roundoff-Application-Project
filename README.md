@@ -22,11 +22,11 @@ This is a one-payment system that allows users to make payments using a single p
 
 ## Here are payment system channels- 
 
-- Payment gateway.
+- Payment gateways.
 - API call.
-- Integrated with every payment system.
-- One Identity for every payments.
-- One passwor and keep many pasword depend on user.
+- Integrated with every payment systems.
+- One identity for each user across all payment gateways.
+- One password and keep many password options for user.
 
 ## Thankyou for visit on this repository
 
