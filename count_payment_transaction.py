@@ -3,7 +3,8 @@
 
 # In this code we will count how many time payment done by each payment gateways.
 
-# Sample transaction data
+# Find out transaction data from different payment system.
+
 transactions = [
     {"gateway": "Paytm"},
     {"gateway": "GPay"},
@@ -30,4 +31,3 @@ def count_payments(transactions):
 # Count payments and print the result
 payment_summary = count_payments(transactions)
 print(payment_summary)
-    
