@@ -28,6 +28,13 @@ This is a one-payment system that allows users to make payments using a single p
 - One identity for each user across all payment gateways.
 - One password and keep many password options for user.
 
+## Tech Stack
+
+- Python <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="java" width="20" height="20"/>
+
+- Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
+
+
 ## Collaboration and Contribution🤝🧑‍💻
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
@@ -37,11 +44,3 @@ For Discuss more about project, reach out to me (techabhay06@gmail.com)
 ## Thankyou for visit on this repository
 
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊
-
-
-
-
-
-
-
-
