@@ -39,7 +39,7 @@ This is a one-payment system that allows users to make payments using a single p
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
 
-For Discuss more about project, reach out to me (techabhay06@gmail.com)
+For discuss more about project, reach out to me (techabhay06@gmail.com)
 
 ## Thankyou for visit on this repository
 
