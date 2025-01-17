@@ -19,7 +19,7 @@ This is an application designed to check and compare prices and charges across d
 -  See the details and prices of every product from any sector's application using a single application.
 -  First check, choose, and then buy with ease.
 
-### Here are application includes many sectors- 
+### This application includes many sectors - 
 
 - E-commerce.
 - Quick e-commerce.
