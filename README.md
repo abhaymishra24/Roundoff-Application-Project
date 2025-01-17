@@ -10,7 +10,6 @@ This application includes many sectors, such as e-commerce, quick e-commerce, fi
  
 ### Project Description✍️
 
-This is a one-payment system that allows users to make payments using a single payment application gateway for various transaction applications. The one-payment system includes all applications and enables users to make payments through any payment gateway. A single user ID will be connected to every payment system gateway.
 
 ### Objective✍️
 
