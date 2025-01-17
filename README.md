@@ -21,13 +21,15 @@ This is a one-payment system that allows users to make payments using a single p
 -  Even with this payment technology, if users want to keep multiple passwords for different payment gateways, they can do so without any issues
 -  Create a single ID for the payment system so users don't need multiple IDs
 
-### Here are payment system channels- 
+### Here are application includes many sectors- 
 
-- Payment gateways.
-- API call.
-- Integrated with every payment systems.
-- One identity for each user across all payment gateways.
-- One password and keep many password options for user.
+- E-commerce.
+- Quick e-commerce.
+- Fintech.
+- Food delivery.
+- Ride sharing company.
+- Travel and hospitality.
+- Logistics.
 
 ### Tech Stack
 
