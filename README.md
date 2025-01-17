@@ -14,7 +14,7 @@ This is an application designed to check and compare prices and charges across d
  
 ### Objective✍️
 
--  Make payments easy with just one application through different payment gateways.
+-  
 -  Try to keep only one application for users, so they don’t need to download multiple payment applications on their phones.
 -  Add new upcoming payment transactions through one application for both online and offline services.
 -  Create a single password for money transactions so that users will not forget it.
@@ -37,7 +37,7 @@ This is an application designed to check and compare prices and charges across d
 
 - Java <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>
 
-#####  Currently, I am working only with these programming languages, but I would use other tech stacks depending on the application.
+#####  [Currently, I am working only with these programming languages, but I would use other tech stacks depending on the application.]
 
 ### Collaboration and Contribution🤝🧑‍💻
 
