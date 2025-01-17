@@ -14,12 +14,10 @@ This is an application designed to check and compare prices and charges across d
  
 ### Objective✍️
 
--  
--  Try to keep only one application for users, so they don’t need to download multiple payment applications on their phones.
--  Add new upcoming payment transactions through one application for both online and offline services.
--  Create a single password for money transactions so that users will not forget it.
--  Even with this payment technology, if users want to keep multiple passwords for different payment gateways, they can do so without any issues
--  Create a single ID for the payment system so users don't need multiple IDs
+-  It is easy to check and compare product prices and details.
+-  There is no need to worry about opening different apps to check prices and avoid hassle.
+-  See the details and prices of every product from any sector's application using a single application.
+-  First check, choose, and then buy with ease.
 
 ### Here are application includes many sectors- 
 
