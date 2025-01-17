@@ -10,7 +10,8 @@ This application includes many sectors, such as e-commerce, quick e-commerce, fi
  
 ### Project Description✍️
 
-
+This is an application designed to check and compare prices and charges across different applications for many products. In this application, users can check the prices and charges of products from various applications using a single platform and choose to buy based on prices, charges, and product details. We will include product prices and summaries in this application. After selecting a product, users will be directed to the application where they want to make their purchase.
+ 
 ### Objective✍️
 
 -  Make payments easy with just one application through different payment gateways.
