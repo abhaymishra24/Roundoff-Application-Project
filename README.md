@@ -6,7 +6,7 @@ This application includes many sectors, such as e-commerce, quick e-commerce, fi
 
 #### [I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies.]🤝🧑‍💻🚀
 
- ![all in one picture](https://github.com/abhaymishra24/Roundoff-Application-Project/blob/main/all%20in%20one.png)
+![all in one picture](https://github.com/abhaymishra24/Roundoff-Application-Project/blob/main/all%20in%20one.png)
  
 ### Project Description✍️
 
