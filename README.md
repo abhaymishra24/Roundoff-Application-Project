@@ -1,5 +1,5 @@
 
- ## Roundoff-Application-Project(All in one)
+## Roundoff-Application-Project(All in one)
 
 This is an application for checking and comparing prices and charges of different products across many applications, called Roundoff(All in one).
 This application includes many sectors, such as e-commerce, quick e-commerce, fintech, food delivery, travel and hospitality, logistics, and more.
@@ -29,7 +29,7 @@ This is an application designed to check and compare prices and charges across d
 - Travel and hospitality.
 - Logistics.
 
-### Tech Stack
+### Tech Stack💻
 
 - Python <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="java" width="20" height="20"/>
 
@@ -41,7 +41,7 @@ This is an application designed to check and compare prices and charges across d
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
 
-##### For discuss more about project, reach out to me (techabhay06@gmail.com)
+##### For discuss more about project, reach out to me-(techabhay06@gmail.com)
 
 ### Thankyou for visit on this repository😊
 
