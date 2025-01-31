@@ -8,7 +8,7 @@ This application includes many sectors, such as e-commerce, quick e-commerce, fi
 
 ![all in one picture](https://github.com/abhaymishra24/Roundoff-Application-Project/blob/main/all_in_one.png)
  
-### Project Description✍️
+### Project description✍️
 
 This is an application designed to check and compare prices and charges across different applications for many products.
 In this application, users can check the prices and charges of products from various applications using a single platform and choose to buy based on prices, charges, and product details.
@@ -32,7 +32,7 @@ We will include product prices and summaries in this application. After selectin
 - Travel and hospitality.
 - Logistics.
 
-### Tech Stack💻
+### Tech stack💻
 
 - Python <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" alt="java" width="20" height="20"/>
 
@@ -40,7 +40,7 @@ We will include product prices and summaries in this application. After selectin
 
 #####  [Currently, I am working only with these programming languages, but I would use other tech stacks depending on the application.]
 
-### Collaboration and Contribution🤝🧑‍💻
+### Collaboration and contribution🤝🧑‍💻
 
 I would like to welcome everyone who can contribute to this project, discuss it, and suggest new features and technologies. I would be very grateful to you if you contributed to this project and helped build such a great product for the world.🤝🧑‍💻🚀
 
