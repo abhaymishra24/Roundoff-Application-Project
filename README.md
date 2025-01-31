@@ -49,5 +49,3 @@ I would like to welcome everyone who can contribute to this project, discuss it,
 ### Thankyou for visit on this repository😊
 
 Feel free to explore my other repositories and reach out to me for collaborations or discussions on new idea and projects.🤝😊🚀
-
-[def]: https://github.com/abhaymishra24/Roundoff-Application-Project/blob/main/all%20in%20one.png
