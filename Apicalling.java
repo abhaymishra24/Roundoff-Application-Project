@@ -42,75 +42,67 @@ public class Apicalling {
     }
 }
 
-<dependency>
-    <groupId>com.squareup.okhttp3</groupId>
-    <artifactId>okhttp</artifactId>
-    <version>4.10.0</version>
-</dependency>
+// Removed misplaced dependency declaration
 
 
-import okhttp3.OkHttpClient;
-import okhttp3.Request;
-import okhttp3.Response;
+// import okhttp3.OkHttpClient;
+// import okhttp3.Request;
+// import okhttp3.Response;
 
-import java.io.IOException;
+// import java.io.IOException;
 
-public class ApiCallExample {
+// public class ApiCallExample {
 
-    public static void main(String[] args) {
-        // Create an OkHttpClient instance
-        OkHttpClient client = new OkHttpClient();
+//     public static void main(String[] args) {
+//         // Create an OkHttpClient instance
+//         OkHttpClient client = new OkHttpClient();
         
-        // Define the request
-        Request request = new Request.Builder()
-                .url("https://jsonplaceholder.typicode.com/posts/1") // Example URL
-                .build();
+//         // Define the request
+//         Request request = new Request.Builder()
+//                 .url("https://jsonplaceholder.typicode.com/posts/1") // Example URL
+//                 .build();
         
-        // Execute the request
-        try (Response response = client.newCall(request).execute()) {
-            if (response.isSuccessful()) {
-                // Print the response body
-                System.out.println("Response: " + response.body().string());
-            } else {
-                System.out.println("Request failed with code: " + response.code());
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-}
+//         // Execute the request
+//         try (Response response = client.newCall(request).execute()) {
+//             if (response.isSuccessful()) {
+//                 // Print the response body
+//                 System.out.println("Response: " + response.body().string());
+//             } else {
+//                 System.out.println("Request failed with code: " + response.code());
+//             }
+//         } catch (IOException e) {
+//             e.printStackTrace();
+//         }
+//     }
+// }
 
-<dependency>
-    <groupId>org.apache.httpcomponents</groupId>
-    <artifactId>httpclient</artifactId>
-    <version>4.5.13</version>
-</dependency>
+// <dependency>
+//     <groupId>org.apache.httpcomponents</groupId>
+//     <artifactId>httpclient</artifactId>
+//     <version>4.5.13</version>
+// // Removed misplaced dependency declaration
+// import org.apache.http.impl.client.CloseableHttpClient;
+// import org.apache.http.impl.client.HttpClients;
+// import org.apache.http.util.EntityUtils;
 
-import org.apache.http.HttpResponse;
-import org.apache.http.client.methods.CloseableHttpResponse;
-import org.apache.http.client.methods.HttpGet;
-import org.apache.http.impl.client.CloseableHttpClient;
-import org.apache.http.impl.client.HttpClients;
-import org.apache.http.util.EntityUtils;
+// import java.io.IOException;
 
-import java.io.IOException;
+// public class ApiCallExample {
 
-public class ApiCallExample {
-
-    public static void main(String[] args) {
-        // Create an HttpClient instance
-        try (CloseableHttpClient client = HttpClients.createDefault()) {
-            // Define the request
-            HttpGet request = new HttpGet("https://jsonplaceholder.typicode.com/posts/1"); // Example URL
+//     public static void main(String[] args) {
+//         // Create an HttpClient instance
+//         try (CloseableHttpClient client = HttpClients.createDefault()) {
+//             // Define the request
+//             HttpGet request = new HttpGet("https://jsonplaceholder.typicode.com/posts/1"); // Example URL
             
-            // Execute the request
-            try (CloseableHttpResponse response = client.execute(request)) {
-                // Get the response body
-                String responseBody = EntityUtils.toString(response.getEntity());
-                System.out.println("Response: " + responseBody);
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-}
+//             // Execute the request
+//             try (CloseableHttpResponse response = client.execute(request)) {
+//                 // Get the response body
+//                 String responseBody = EntityUtils.toString(response.getEntity());
+//                 System.out.println("Response: " + responseBody);
+//             }
+//         } catch (IOException e) {
+//             e.printStackTrace();
+//         }
+//     }
+// }
